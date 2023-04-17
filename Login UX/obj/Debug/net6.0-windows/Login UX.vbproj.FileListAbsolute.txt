@@ -1,0 +1,26 @@
+C:\VS\Login UX\Login UX\obj\Debug\net6.0-windows\Login UX.vbproj.AssemblyReference.cache
+C:\VS\Login UX\Login UX\obj\Debug\net6.0-windows\Login UX.vbproj.GenerateResource.cache
+C:\VS\Login UX\Login UX\obj\Debug\net6.0-windows\Login UX.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\Login UX\Login UX\obj\Debug\net6.0-windows\Login UX.AssemblyInfoInputs.cache
+C:\VS\Login UX\Login UX\obj\Debug\net6.0-windows\Login UX.AssemblyInfo.vb
+C:\VS\Login UX\Login UX\obj\Debug\net6.0-windows\Login UX.vbproj.CoreCompileInputs.cache
+C:\VS\Login UX\Login UX\bin\Debug\net6.0-windows\Login UX.exe
+C:\VS\Login UX\Login UX\bin\Debug\net6.0-windows\Login UX.deps.json
+C:\VS\Login UX\Login UX\bin\Debug\net6.0-windows\Login UX.runtimeconfig.json
+C:\VS\Login UX\Login UX\bin\Debug\net6.0-windows\Login UX.dll
+C:\VS\Login UX\Login UX\bin\Debug\net6.0-windows\Login UX.pdb
+C:\VS\Login UX\Login UX\obj\Debug\net6.0-windows\Login UX.dll
+C:\VS\Login UX\Login UX\obj\Debug\net6.0-windows\refint\Login UX.dll
+C:\VS\Login UX\Login UX\obj\Debug\net6.0-windows\Login UX.pdb
+C:\VS\Login UX\Login UX\obj\Debug\net6.0-windows\Login UX.genruntimeconfig.cache
+C:\VS\Login UX\Login UX\obj\Debug\net6.0-windows\ref\Login UX.dll
+C:\VS\Login UX\Login UX\obj\Debug\net6.0-windows\Login_UX.Resources.resources
+C:\VS\Login UX\Login UX\obj\Debug\net6.0-windows\Login_UX.landing.resources
+C:\VS\Login UX\Login UX\obj\Debug\net6.0-windows\Login_UX.login.resources
+C:\VS\Login UX\Login UX\obj\Debug\net6.0-windows\Login_UX.ordering.resources
+C:\VS\Login UX\Login UX\obj\Debug\net6.0-windows\Login_UX.payment.resources
+C:\VS\Login UX\Login UX\obj\Debug\net6.0-windows\Login_UX.ordservice.resources
+C:\VS\Login UX\Login UX\obj\Debug\net6.0-windows\Login_UX.upload.resources
+C:\VS\Login UX\Login UX\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\VS\Login UX\Login UX\obj\Debug\net6.0-windows\Login UX.vbproj.CopyComplete
+C:\VS\Login UX\Login UX\bin\Debug\net6.0-windows\System.Management.dll
