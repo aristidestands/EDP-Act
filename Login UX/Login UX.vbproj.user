@@ -16,6 +16,9 @@
     <Compile Update="ordservice.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="print_data.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="upload.vb">
       <SubType>Form</SubType>
     </Compile>

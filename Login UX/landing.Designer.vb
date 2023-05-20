@@ -28,6 +28,7 @@ Partial Class landing
         Me.Button2 = New System.Windows.Forms.Button()
         Me.btnUpload = New System.Windows.Forms.Button()
         Me.btnBackup = New System.Windows.Forms.Button()
+        Me.Button1 = New System.Windows.Forms.Button()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -54,7 +55,7 @@ Partial Class landing
         '
         'btnOrdNow
         '
-        Me.btnOrdNow.Location = New System.Drawing.Point(415, 332)
+        Me.btnOrdNow.Location = New System.Drawing.Point(559, 330)
         Me.btnOrdNow.Margin = New System.Windows.Forms.Padding(2)
         Me.btnOrdNow.Name = "btnOrdNow"
         Me.btnOrdNow.Size = New System.Drawing.Size(90, 27)
@@ -64,7 +65,7 @@ Partial Class landing
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(535, 330)
+        Me.Button2.Location = New System.Drawing.Point(324, 380)
         Me.Button2.Margin = New System.Windows.Forms.Padding(2)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(90, 27)
@@ -74,7 +75,7 @@ Partial Class landing
         '
         'btnUpload
         '
-        Me.btnUpload.Location = New System.Drawing.Point(90, 330)
+        Me.btnUpload.Location = New System.Drawing.Point(65, 332)
         Me.btnUpload.Name = "btnUpload"
         Me.btnUpload.Size = New System.Drawing.Size(139, 29)
         Me.btnUpload.TabIndex = 4
@@ -83,12 +84,21 @@ Partial Class landing
         '
         'btnBackup
         '
-        Me.btnBackup.Location = New System.Drawing.Point(257, 330)
+        Me.btnBackup.Location = New System.Drawing.Point(227, 332)
         Me.btnBackup.Name = "btnBackup"
         Me.btnBackup.Size = New System.Drawing.Size(127, 29)
         Me.btnBackup.TabIndex = 5
         Me.btnBackup.Text = "Backup Data"
         Me.btnBackup.UseVisualStyleBackColor = True
+        '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(383, 332)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(146, 29)
+        Me.Button1.TabIndex = 6
+        Me.Button1.Text = " Download Data"
+        Me.Button1.UseVisualStyleBackColor = True
         '
         'landing
         '
@@ -96,6 +106,7 @@ Partial Class landing
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.PeachPuff
         Me.ClientSize = New System.Drawing.Size(716, 430)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.btnBackup)
         Me.Controls.Add(Me.btnUpload)
         Me.Controls.Add(Me.Button2)
@@ -117,4 +128,5 @@ Partial Class landing
     Friend WithEvents Button2 As Button
     Friend WithEvents btnUpload As Button
     Friend WithEvents btnBackup As Button
+    Friend WithEvents Button1 As Button
 End Class

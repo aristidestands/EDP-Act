@@ -1,4 +1,5 @@
-﻿Imports MySql.Data.MySqlClient
+﻿Imports System.IO
+Imports MySql.Data.MySqlClient
 
 Public Class landing
     Private Sub btnOrdNow_Click(sender As Object, e As EventArgs) Handles btnOrdNow.Click
@@ -43,6 +44,10 @@ Public Class landing
         End If
 
     End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        print_data.Show()
+    End Sub
 End Class
 
 Friend Class MySqlBackup
@@ -56,3 +61,6 @@ Friend Class MySqlBackup
         Throw New NotImplementedException()
     End Sub
 End Class
+
+
+
